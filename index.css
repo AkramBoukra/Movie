@@ -26,6 +26,7 @@ body {
       align-items: center;
       max-width: 1200px;
       margin: 0 auto;
+<<<<<<< HEAD
       color: #fff; }
       body header .container .header-logo {
         text-transform: uppercase;
@@ -53,3 +54,6 @@ body {
       -webkit-animation: identifier 25s linear infinite;
       animation: identifier 25s linear infinite; }
 
+=======
+      color: #fff; }
+>>>>>>> d3c43728f3200a74178c1e373133a7b46a758d57
