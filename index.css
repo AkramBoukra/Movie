@@ -106,3 +106,23 @@ body {
           align-items: center;
           margin-bottom: 2em; }
          >>>>>>>>>>>>>>>>>
+         body .banner .container .content .play .icon {
+          height: 50px;
+          width: 50px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+          border-radius: 50%;
+          border: 1px solid #fff;
+          font-size: 1.25em; }
+        body .banner .container .content .play span {
+          margin-left: 20px; }
+    body .banner .container .nav-social-icons {
+      position: absolute;
+      right: 0px; }
