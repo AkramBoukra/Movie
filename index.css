@@ -1,1 +1,29 @@
-//fichier css groupe dd
+body {
+  font-family: 'circular std', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  /* Laptop */
+  /* Tablet */
+  /* Mobile */ }
+  body a {
+    text-decoration: none; }
+  body header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 2rem 0;
+    z-index: 999; }
+    body header .container {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+      color: #fff; }
