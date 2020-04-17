@@ -27,3 +27,34 @@ body {
       max-width: 1200px;
       margin: 0 auto;
       color: #fff; }
+	   body header .container .header-logo {
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 2rem;
+        color: #fff; }
+      body header .container .toggle .ion-md-menu {
+        font-size: 2rem; }
+    body header .hdr-navList {
+      display: none; }
+  body .banner {
+    position: relative;
+    overflow: hidden;
+    background: url(bg-1.jpg);
+    background-size: cover;
+    background-position: center; }
+    body .banner .slide {
+      background: url(joker.png);
+      background-size: cover;
+      width: 250px;
+      height: 150px;
+      cursor: pointer;
+      position: absolute;
+      bottom: 0;
+      -webkit-animation: identifier 25s linear infinite;
+      animation: identifier 25s linear infinite; }
+
+@-webkit-keyframes identifier {
+  0%, 100% {
+    background-position: top; }
+  45%, 55% {
+    background-position: bottom; } }
