@@ -27,8 +27,13 @@ body {
       max-width: 1200px;
       margin: 0 auto;
 <<<<<<< HEAD
+<<<<<<< HEAD
       color: #fff; }
       body header .container .header-logo {
+=======
+      color: #fff; }
+	   body header .container .header-logo {
+>>>>>>> fdca2ca12c745d2e5ade66f6c49f6d99cba2644a
         text-transform: uppercase;
         font-weight: bold;
         font-size: 2rem;
@@ -54,6 +59,50 @@ body {
       -webkit-animation: identifier 25s linear infinite;
       animation: identifier 25s linear infinite; }
 
+<<<<<<< HEAD
 =======
       color: #fff; }
 >>>>>>> d3c43728f3200a74178c1e373133a7b46a758d57
+=======
+@-webkit-keyframes identifier {
+  0%, 100% {
+    background-position: top; }
+  45%, 55% {
+    background-position: bottom; } }
+>>>>>>> fdca2ca12c745d2e5ade66f6c49f6d99cba2644a
+ body .banner .container {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      height: 100vh;
+      max-width: 1200px;
+      margin: 0 auto; }
+      body .banner .container .content {
+        max-width: 650px;
+        position: relative; }
+        body .banner .container .content h2 {
+          font-size: 2.75rem;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+          color: #fff;
+          margin-bottom: 1em; }
+          body .banner .container .content h2 span {
+            font-weight: bold; }
+        body .banner .container .content p {
+          color: #fff;
+          line-height: 1.75;
+          margin-bottom: 2em; }
+        body .banner .container .content .play {
+          margin-bottom: 1em;
+          color: #fff;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          align-items: center;
+          margin-bottom: 2em; }
+         >>>>>>>>>>>>>>>>>
