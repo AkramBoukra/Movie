@@ -26,14 +26,10 @@ body {
       align-items: center;
       max-width: 1200px;
       margin: 0 auto;
-<<<<<<< HEAD
-<<<<<<< HEAD
       color: #fff; }
       body header .container .header-logo {
-=======
       color: #fff; }
 	   body header .container .header-logo {
->>>>>>> fdca2ca12c745d2e5ade66f6c49f6d99cba2644a
         text-transform: uppercase;
         font-weight: bold;
         font-size: 2rem;
@@ -58,18 +54,11 @@ body {
       bottom: 0;
       -webkit-animation: identifier 25s linear infinite;
       animation: identifier 25s linear infinite; }
-
-<<<<<<< HEAD
-=======
-      color: #fff; }
->>>>>>> d3c43728f3200a74178c1e373133a7b46a758d57
-=======
 @-webkit-keyframes identifier {
   0%, 100% {
     background-position: top; }
   45%, 55% {
     background-position: bottom; } }
->>>>>>> fdca2ca12c745d2e5ade66f6c49f6d99cba2644a
  body .banner .container {
       display: -webkit-box;
       display: -ms-flexbox;
